@@ -1,0 +1,6 @@
+C:\Users\刘文松\source\repos\Question3\Question3\bin\Debug\Question3.exe.config
+C:\Users\刘文松\source\repos\Question3\Question3\bin\Debug\Question3.exe
+C:\Users\刘文松\source\repos\Question3\Question3\bin\Debug\Question3.pdb
+C:\Users\刘文松\source\repos\Question3\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+C:\Users\刘文松\source\repos\Question3\Question3\obj\Debug\Question3.exe
+C:\Users\刘文松\source\repos\Question3\Question3\obj\Debug\Question3.pdb
