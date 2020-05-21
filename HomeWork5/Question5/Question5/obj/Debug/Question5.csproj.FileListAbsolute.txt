@@ -1,0 +1,7 @@
+C:\Users\刘文松\source\repos\Question5\Question5\bin\Debug\Question5.exe.config
+C:\Users\刘文松\source\repos\Question5\Question5\bin\Debug\Question5.exe
+C:\Users\刘文松\source\repos\Question5\Question5\bin\Debug\Question5.pdb
+C:\Users\刘文松\source\repos\Question5\Question5\obj\Debug\Question5.csprojAssemblyReference.cache
+C:\Users\刘文松\source\repos\Question5\Question5\obj\Debug\Question5.csproj.CoreCompileInputs.cache
+C:\Users\刘文松\source\repos\Question5\Question5\obj\Debug\Question5.exe
+C:\Users\刘文松\source\repos\Question5\Question5\obj\Debug\Question5.pdb
