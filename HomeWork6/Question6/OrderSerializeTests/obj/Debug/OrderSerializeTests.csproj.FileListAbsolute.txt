@@ -1,0 +1,12 @@
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\OrderSerializeTests.dll
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\OrderSerializeTests.pdb
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\OrderSerialize.exe
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\OrderSerialize.pdb
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\OrderSerialize.exe.config
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\obj\Debug\OrderSerializeTests.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\obj\Debug\OrderSerializeTests.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\obj\Debug\OrderSerializeTests.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\obj\Debug\OrderSerializeTests.dll
+C:\Users\jiaxy\source\repos\Homework6\OrderSerializeTests\obj\Debug\OrderSerializeTests.pdb
