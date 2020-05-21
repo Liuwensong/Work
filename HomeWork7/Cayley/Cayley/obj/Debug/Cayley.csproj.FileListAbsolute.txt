@@ -1,0 +1,10 @@
+C:\Users\刘文松\source\repos\Cayley\Cayley\bin\Debug\Cayley.exe.config
+C:\Users\刘文松\source\repos\Cayley\Cayley\bin\Debug\Cayley.exe
+C:\Users\刘文松\source\repos\Cayley\Cayley\bin\Debug\Cayley.pdb
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.Form1.resources
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.Properties.Resources.resources
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.csproj.GenerateResource.cache
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.csproj.CoreCompileInputs.cache
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.exe
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.pdb
+C:\Users\刘文松\source\repos\Cayley\Cayley\obj\Debug\Cayley.csprojAssemblyReference.cache
